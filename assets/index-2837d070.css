@@ -1,0 +1,1 @@
+.ppd-switcher{--gap: 5px;--bor-size: 2px;display:flex;gap:var(--gap);position:relative;padding:var(--gap);box-sizing:border-box}.ppd-switcher__item{text-align:center;cursor:pointer}.ppd-switcher__item--bar{position:absolute;width:1%;height:3px;margin-top:calc(50% - 3px);box-sizing:border-box;background-color:color-mix(in srgb,var(--primary),#0f0 50%);transition:.3s}
